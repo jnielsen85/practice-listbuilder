@@ -1,3 +1,5 @@
+Just coding around, keeping fingers on keyboard.  TODO: re-do with react Hooks.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
